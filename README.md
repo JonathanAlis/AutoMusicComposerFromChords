@@ -22,3 +22,5 @@ The octave is changed so that the note intervals are minimum.
 Finally, the melody is exported to a melodia.sco, and played by orchestra orq.orc, and the synthesized sound is saved as the file teste1.wav.
 
 TODO: segmentation fault occurs for large created songs. I have to solve this issue.
+
+Uses the MuM library from Carlos Eduardo Mello, in the MuM folder
